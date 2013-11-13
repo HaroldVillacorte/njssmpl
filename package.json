@@ -1,0 +1,21 @@
+{
+    "name": "nodeParactice",
+    "description": "(pending)",
+    "version": "0.0.1",
+    "main": "./nodeParactice.js",
+    "author": {
+        "name": "Laughing Host",
+        "email": "admin@laughinghost.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/nodeParactice.git"
+    },
+    "bugs": {
+        "web": "http://github.com/YOUR_LOGIN/nodeParactice/issues"
+    }
+}

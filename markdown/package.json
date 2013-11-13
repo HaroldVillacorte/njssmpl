@@ -1,0 +1,14 @@
+{
+  "name": "markdown",
+  "version": "0.0.0",
+  "description": "",
+  "main": "markdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "node-markdown": "0.1.0"
+  },
+  "author": "laughing host",
+  "license": "BSD-2-Clause"
+}
